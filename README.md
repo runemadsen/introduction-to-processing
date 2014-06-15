@@ -20,13 +20,14 @@ Overview
 ### Basic Drawing
 
 * Screen coordinates
-* `size()`
+* `size()`, `width` and `height`
 * Drawing and color functions
     * `rect()` and `rectMode()`
     * `ellipse()` and `ellipseMode()`
     * `fill()` and `stroke()` with greyscale and color
 * Processing reference
 * Exercise: Make a drawing of an alien
+* Relative positioning on the screen
 
 ### Animation
 
