@@ -34,8 +34,23 @@ Overview
 * `mouseX` and `mouseY`
 * [Declaring, initializing and using variables](https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables)
 * [Mouse and key events](https://github.com/shiffman/LearningProcessing/blob/master/chp03_flow/example_3_5_mouse_key_events/example_3_5_mouse_key_events.pde)
+* `random()`
+* `map()`
+* Exercise: Make a jittering/nervous shape that follows the mouse
+* Exercise: Use `random()` to make a little painting system
 
+### Interaction
 
+* Conditionals
+    - `if`, `else`, `if else`
+    - Booleans
+    - Operators
+* Loops
+    - `While`
+    - `for` 
+Exercise: ?????
+
+### Functions
 
 beginShape()
 
