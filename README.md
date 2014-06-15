@@ -1,7 +1,7 @@
 Introduction to Processing
 ==========================
 
-This course is inspired by two classes taught at the Interactive Telecommunications Program at New York University: [Introduction to Computational Media](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013-All.md) and [Printing Code](http://printingcode.runemadsen.com/). The aim of the workshop is tro introduce the concepts of programming through exercises inspired by the field of graphic design.
+This course is inspired by two classes taught at the Interactive Telecommunications Program at New York University: [Introduction to Computational Media](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013-All.md) and [Printing Code](http://printingcode.runemadsen.com/). The aim of the workshop is to introduce the concepts of programming through exercises inspired by the field of graphic design.
 
 
 Overview
