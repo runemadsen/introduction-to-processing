@@ -52,18 +52,36 @@ Exercise: ?????
 
 ### Functions
 
-beginShape()
+* What is a function?
+* Calling vs. defining
+* Parameters
+* Exercise: ?????
 
-XML
+### Repetition
 
-JSON
+* Arrays
 
+### Advanced Drawing
 
+* `beginShape()`
 
-TODO: Exercises / stuff from Printing Code?
+### Pixels
 
+* Images
+    - Load and display images
+    - The pixels array
+* Exercise: make an interactive image processing filter
 
+### Data
 
+* Table
+* XML
+* JSON
+* Using API's
+
+### TODO
+
+* Exercises / Examples from Printing Code
 
 Links
 -----
