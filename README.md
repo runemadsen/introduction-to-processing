@@ -20,18 +20,18 @@ Overview
 ### Basic Drawing
 
 * Screen coordinates
-* `size()`, `width` and `height`
+* `width` and `height`
 * Drawing and color functions
     * `rect()` and `rectMode()`
     * `ellipse()` and `ellipseMode()`
     * `fill()` and `stroke()` with greyscale and color
 * Processing reference
 * Exercise: Make a drawing of an alien
-* Relative positioning on the screen
+* Positioning and placement in Processing
 
 ### Animation
 
-* `setup()` and `draw()`
+* `setup()`, `draw()` and `size()`
 * `mouseX` and `mouseY`
 * [Declaring, initializing and using variables](https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables)
 * [Mouse and key events](https://github.com/shiffman/LearningProcessing/blob/master/chp03_flow/example_3_5_mouse_key_events/example_3_5_mouse_key_events.pde)
@@ -64,7 +64,20 @@ Exercise: ?????
 
 ### Advanced Drawing
 
-* `beginShape()`
+* `beginShape()` and `endShape()`
+* `vertex()`, `curveVertex()`
+* Exercise: Draw a house
+* Bezier Curves and `bezierVertex()`
+* Exercise: Draw a curved shape
+
+### Advanced Color
+
+* [Additive and Subtractive color systems](http://printingcode.runemadsen.com/lecture-color/)
+* `colorMode` and `HSB`
+
+### Typography
+
+* Creating and using fonts in Processing
 
 ### Pixels
 
@@ -80,6 +93,12 @@ Exercise: ?????
 * JSON
 * Using API's
 
+### Etc
+
+* Perlin Noise
+* Toxiclibs
+* 
+
 ### TODO
 
 * Exercises / Examples from Printing Code
@@ -88,6 +107,7 @@ Links
 -----
 
 * http://icm.shiffman.net/
+* http://printingcode.runemadsen.com
 
 
 
