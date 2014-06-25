@@ -98,11 +98,7 @@ Exercise: ?????
 
 * Perlin Noise
 * Toxiclibs
-* 
-
-### TODO
-
-* Exercises / Examples from Printing Code
+* sin/cos
 
 Links
 -----
