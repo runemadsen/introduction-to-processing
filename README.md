@@ -6,6 +6,14 @@ This course is inspired by two classes taught at the Interactive Telecommunicati
 Overview
 --------
 
+### About the Class
+
+* Introductions
+* Introduction to programming through graphic design
+* Not necessarily data visualization
+* Ask questions. Let me know if I'm too slow or too fast.
+* Book: Learning Processing - Daniel Shiffman
+
 ### What is programming?
 
 * What is programming?
@@ -17,24 +25,36 @@ Overview
 
 * [Lecture](http://printingcode.runemadsen.com/lecture-intro/)
 
-### Basic Drawing
+### Form and Composition
 
 * Screen coordinates
-* `width` and `height`
+* `size`, `width` and `height`
 * Drawing and color functions
     * `rect()` and `rectMode()`
     * `ellipse()` and `ellipseMode()`
     * `fill()` and `stroke()` with greyscale and color
 * Processing reference
-* Exercise: Make a drawing of an alien
+* Exercise: Draw an ice cream cone using only an ellipse, rectangle and triangle
 * Positioning and placement in Processing
+* Exercise: Center your cone even if you change the size of the canvas
+
+### Color
+
+* RGB
 
 ### Animation
 
-* `setup()`, `draw()` and `size()`
+* `setup()` and `draw()`
+* Variables
+    - Declaring and types
+    - Initializing
+    - Using variables
+    - Exercise: Change your cone to use variables instead of hardcoded numbers
+    - Exercise: Make a ball move across the screen using an incrementing variable
 * `mouseX` and `mouseY`
-* [Declaring, initializing and using variables](https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables)
-* [Mouse and key events](https://github.com/shiffman/LearningProcessing/blob/master/chp03_flow/example_3_5_mouse_key_events/example_3_5_mouse_key_events.pde)
+    - Exercise: Make the ball follow the mouse
+* `mousePressed` and `keyPressed`
+    - Exercise: Draw a ball on the screen whenever the mouse is clicked
 * `random()`
 * `map()`
 * Exercise: Make a jittering/nervous shape that follows the mouse
@@ -44,11 +64,14 @@ Overview
 
 * Conditionals
     - `if`, `else`, `if else`
+    - Exercise: Make moving ball show repeat when going across the screen
     - Booleans
     - Operators
 * Loops
     - `While`
     - `for` 
+    - Exercise: Draw lines across the screen 
+    - Exercise: Draw a pie chart
 Exercise: ?????
 
 ### Functions
