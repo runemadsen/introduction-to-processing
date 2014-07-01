@@ -3,7 +3,7 @@ Introduction to Processing
 
 This course is inspired by two classes taught at the Interactive Telecommunications Program at New York University: [Introduction to Computational Media](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013-All.md) and [Printing Code](http://printingcode.runemadsen.com/). The aim of the workshop is to introduce the concepts of programming through exercises inspired by the field of graphic design.
 
-Overview
+Day 1
 --------
 
 ### About the Class
@@ -71,13 +71,10 @@ Overview
 * Booleans
 * Operators
 
-### Repetition
-* Loops
-    - `While`
-    - `for` 
-    - Exercise: Draw lines across the screen 
-    - Exercise: Draw a pie chart
-Exercise: ?????
+Day 2
+-----
+
+### Re-cap
 
 ### Functions
 
@@ -89,22 +86,40 @@ Exercise: ?????
 
 ### Repetition
 
-* Loops
-    - `While`
+* `for` loops
     - `for` 
     - Show Paul Rand examples from Form
-    - Exercise: Draw lines across the screen 
-    - Exercise: Draw a pie chart
-* Arrays
+    - Exercise: Draw a grid of rectangles across the screen
+    - Exercise: Make the 4th rectangle another color
+    - Exercise: Make the highlighted rectangle another color
+* `while` loops
+* Arrays and loops
+    - Exercise: Do a bar chart from array of numbers
 
 ### Drawing graphs
 
+* Line charts
+* Pie charts
+* Block charts
+
 ### Data
 
-* Table
+* [Table and CSV's](csv/csv.pde)
+    - What is a CSV file?
+    - Processing and CSV's
+    - Exercise: Use this CSV file in your stupid data viz
+    - Exercise: Take [this dataset](NEED SOMETHING HERE) and draw something from it.
 * XML
+    - What is XML?
+    - Processing and XML
+    - Exercise: Use this XML file in your stupid data viz
+    - Exercise: Take [this dataset](NEED SOMETHING HERE) and draw something from it.
 * JSON
 * Using API's
+* Exercise: Build a big data visualization from a data set
+
+Day 3
+-----
 
 ### Advanced Color
 
