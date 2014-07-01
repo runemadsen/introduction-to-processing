@@ -75,6 +75,7 @@ Day 2
 -----
 
 ### Re-cap
+    * float vs. int. important!
 
 ### Functions
 
@@ -83,6 +84,7 @@ Day 2
 * Exercise: Make a `house` function that draws a house
 * Parameters
 * Exercise: Make a function that draws a house. Use it to draw it 3 different places.
+* MORE EXERCISES THAT USE IF/ELSE AND FUNCTIONS
 
 ### Repetition
 
@@ -98,9 +100,9 @@ Day 2
 
 ### Drawing graphs
 
-* Line charts
-* Pie charts
-* Block charts
+* [Line charts](linechart/linechart.pde)
+* [Pie charts](piechart/piechart.pde)
+* [Block charts](blockchart/blockchart.pde)
 
 ### Data
 
@@ -108,18 +110,18 @@ Day 2
     - What is a CSV file?
     - Processing and CSV's
     - Exercise: Use this CSV file in your stupid data viz
-    - Exercise: Take [this dataset](NEED SOMETHING HERE) and draw something from it.
+    - Exercise: Take [this population dataset](exercise-data/population.csv) and draw something from it.
 * [XML](xml/xml.pde)
     - What is XML?
     - Processing and XML
     - Exercise: Use this XML file in your stupid data viz
-    - Exercise: Take [this dataset](NEED SOMETHING HERE) and draw something from it.
+    - Exercise: Take [this weather dataset](exercise-data/weather.xml) and draw something from it.
 * JSON
     - What is JSON?
     - Processing and JSON: [JSONArray](jsonArray/jsonArray.pde) and [JSONObject](jsonObject/jsonObject.pde)
     - Exercise: Use this XML file in your stupid data viz
-* Using API's
-* Exercise: Build a big data visualization from a data set
+    - Exercise: Take [this dataset](exercise-data/crypto.json) and draw something
+* Exercise: Find a dataset on [data.worldbank.org](http://data.worldbank.org/) and build a data visualization from it.
 
 Day 3
 -----
@@ -128,10 +130,6 @@ Day 3
 
 * [Additive and Subtractive color systems](http://printingcode.runemadsen.com/lecture-color/)
 * `colorMode` and `HSB`
-
-### Typography
-
-* Creating and using fonts in Processing
 
 ### Pixels
 
@@ -155,6 +153,8 @@ Stuff from class
 * Toxiclibs
 * sin/cos
 * Add more stuff from Printing Code
+* Processing libraries? P5? etc???
+* Toxiclibs?
 
 Links
 -----

@@ -1,0 +1,27 @@
+<rss version="2.0">
+  <channel>
+    <title>Yahoo! Weather - New York, NY</title>
+    <link>
+      http://us.rd.yahoo.com/dailynews/rss/weather/New_York__NY/*http://weather.yahoo.com/forecast/USNY0996_f.html
+    </link>
+    <description>Yahoo! Weather for New York, NY</description>
+    <lastBuildDate>Mon, 30 Jun 2014 8:49 pm EDT</lastBuildDate>
+    <yweather:location city="New York" region="NY" country="US"/>
+    <yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+    <yweather:wind chill="76" direction="0" speed="0"/>
+    <yweather:atmosphere humidity="69" visibility="10" pressure="29.98" rising="0"/>
+    <yweather:astronomy sunrise="5:25 am" sunset="8:29 pm"/>
+    <item>
+      <title>Conditions for New York, NY at 8:49 pm EDT</title>
+      <geo:lat>40.67</geo:lat>
+      <geo:long>-73.94</geo:long>
+      <pubDate>Mon, 30 Jun 2014 8:49 pm EDT</pubDate>
+      <yweather:condition text="Fair" code="33" temp="76" date="Mon, 30 Jun 2014 8:49 pm EDT"/>
+      <yweather:forecast day="Mon" date="30 Jun 2014" low="70" high="81" text="Mostly Clear" code="33"/>
+      <yweather:forecast day="Tue" date="1 Jul 2014" low="73" high="87" text="Partly Cloudy/Wind" code="24"/>
+      <yweather:forecast day="Wed" date="2 Jul 2014" low="75" high="90" text="Scattered Thunderstorms" code="38"/>
+      <yweather:forecast day="Thu" date="3 Jul 2014" low="71" high="82" text="Scattered Thunderstorms" code="38"/>
+      <yweather:forecast day="Fri" date="4 Jul 2014" low="65" high="76" text="Thundershowers" code="11"/>
+    </item>
+  </channel>
+</rss>
