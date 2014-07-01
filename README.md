@@ -38,9 +38,13 @@ Overview
 * Positioning and placement in Processing
 * Exercise: Center your cone even if you change the size of the canvas
 
-### Color
+### Advanced Drawing
 
-* RGB
+* `beginShape()` and `endShape()`
+* `vertex()`, `curveVertex()`
+* Exercise: Draw a house
+* Bezier Curves and `bezierVertex()`
+* Exercise: Draw a curved shape
 
 ### Animation
 
@@ -60,13 +64,14 @@ Overview
 * Exercise: Make a jittering/nervous shape that follows the mouse
 * Exercise: Use `random()` to make a little painting system
 
-### Interaction
+### Conditionals
 
-* Conditionals
-    - `if`, `else`, `if else`
+* `if`, `else`, `if else`
     - Exercise: Make moving ball show repeat when going across the screen
-    - Booleans
-    - Operators
+* Booleans
+* Operators
+
+### Repetition
 * Loops
     - `While`
     - `for` 
@@ -78,20 +83,28 @@ Exercise: ?????
 
 * What is a function?
 * Calling vs. defining
+* Exercise: Make a `house` function that draws a house
 * Parameters
-* Exercise: ?????
+* Exercise: Make a function that draws a house. Use it to draw it 3 different places.
 
 ### Repetition
 
+* Loops
+    - `While`
+    - `for` 
+    - Show Paul Rand examples from Form
+    - Exercise: Draw lines across the screen 
+    - Exercise: Draw a pie chart
 * Arrays
 
-### Advanced Drawing
+### Drawing graphs
 
-* `beginShape()` and `endShape()`
-* `vertex()`, `curveVertex()`
-* Exercise: Draw a house
-* Bezier Curves and `bezierVertex()`
-* Exercise: Draw a curved shape
+### Data
+
+* Table
+* XML
+* JSON
+* Using API's
 
 ### Advanced Color
 
@@ -110,18 +123,20 @@ Exercise: ?????
     - The pixels array
 * Exercise: make an interactive image processing filter
 
-### Data
+### Motion
 
-* Table
-* XML
-* JSON
-* Using API's
+* Easings, millis, stuff from class
+Stuff from class
 
 ### Etc
 
+* PDF?
+* 3D?
+* Embedding on the web?
 * Perlin Noise
 * Toxiclibs
 * sin/cos
+* Add more stuff from Printing Code
 
 Links
 -----
