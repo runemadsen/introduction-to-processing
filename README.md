@@ -75,7 +75,8 @@ Day 2
 -----
 
 ### Re-cap
-    * float vs. int. important!
+
+* float vs. int!
 
 ### Functions
 
@@ -138,6 +139,10 @@ Day 3
     - Load and display images
     - The pixels array
 * Exercise: make an interactive image processing filter
+
+### Interactivity
+
+* How to do hit-testing, etc
 
 ### Motion
 
