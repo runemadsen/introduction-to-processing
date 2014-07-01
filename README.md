@@ -78,8 +78,10 @@ Day 2
 
 * All the stuff we did
 * float vs. int!
-* Using `println`
+* Using `println` to inspect variables
 * Variable scope
+* Modulo
+* Boolean Exercise: Make a ball only move when the mouse is pressed, using a boolean
 
 ### More conditionals
 
@@ -106,11 +108,11 @@ Day 2
     - Exercise: Make the 4th rectangle another color
     - Exercise: Make the highlighted rectangle another color
     - Exercise: Make a grid of rectangles using two loops
+    - Exercise: Make a pattern
 * `while` loops
 * Arrays and loops
     - What is an array?
     - Exercise: Do a bar chart from array of numbers
-    - More exercises...
 
 ### Drawing graphs
 
@@ -139,6 +141,24 @@ Day 2
 
 Day 3
 -----
+
+
+
+Day 5
+-----
+
+### Other frameworks / languages
+
+* P5.js
+* Processing.js
+* Two.js
+* D3.js
+
+
+Not yet placed
+--------------
+
+### Maps and overlays in Processing
 
 ### Classes and Objects
 
@@ -177,6 +197,7 @@ Stuff from class
 * Add more stuff from Printing Code
 * Processing libraries? P5? etc???
 * Toxiclibs?
+* Jer Thorp's tutorials...
 
 Links
 -----
