@@ -76,7 +76,17 @@ Day 2
 
 ### Re-cap
 
+* All the stuff we did
 * float vs. int!
+* Using `println`
+* Variable scope
+
+### More conditionals
+
+* if/else with !
+* && and ||
+* hittest on button
+* Exercise: Write a hittest button
 
 ### Functions
 
@@ -85,19 +95,22 @@ Day 2
 * Exercise: Make a `house` function that draws a house
 * Parameters
 * Exercise: Make a function that draws a house. Use it to draw it 3 different places.
-* MORE EXERCISES THAT USE IF/ELSE AND FUNCTIONS
+* Exercise: Make a function that draws a hittest button. Use it to draw 3 buttons with different labels
 
 ### Repetition
 
 * `for` loops
     - `for` 
     - Show Paul Rand examples from Form
-    - Exercise: Draw a grid of rectangles across the screen
+    - Exercise: Draw a row of rectangles across the screen
     - Exercise: Make the 4th rectangle another color
     - Exercise: Make the highlighted rectangle another color
+    - Exercise: Make a grid of rectangles using two loops
 * `while` loops
 * Arrays and loops
+    - What is an array?
     - Exercise: Do a bar chart from array of numbers
+    - More exercises...
 
 ### Drawing graphs
 
@@ -127,12 +140,18 @@ Day 2
 Day 3
 -----
 
+### Classes and Objects
+
 ### Advanced Color
 
 * [Additive and Subtractive color systems](http://printingcode.runemadsen.com/lecture-color/)
 * `colorMode` and `HSB`
 
-### Pixels
+### Advanced Repetition
+
+### Advanced Randomization
+
+### Advanced Transformation
 
 * [Transformation in Processing](http://printingcode.runemadsen.com/lecture-transformation/)
 * Images
@@ -140,22 +159,20 @@ Day 3
     - The pixels array
 * Exercise: make an interactive image processing filter
 
-### Interactivity
-
-* How to do hit-testing, etc
-
 ### Motion
 
 * Easings, millis, stuff from class
 Stuff from class
+
+### Data Visualizations that work
 
 ### Etc
 
 * PDF?
 * 3D?
 * Embedding on the web?
-* Perlin Noise
 * Toxiclibs
+* Geomerative
 * sin/cos
 * Add more stuff from Printing Code
 * Processing libraries? P5? etc???
