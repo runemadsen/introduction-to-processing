@@ -109,12 +109,15 @@ Day 2
     - Processing and CSV's
     - Exercise: Use this CSV file in your stupid data viz
     - Exercise: Take [this dataset](NEED SOMETHING HERE) and draw something from it.
-* XML
+* [XML](xml/xml.pde)
     - What is XML?
     - Processing and XML
     - Exercise: Use this XML file in your stupid data viz
     - Exercise: Take [this dataset](NEED SOMETHING HERE) and draw something from it.
 * JSON
+    - What is JSON?
+    - Processing and JSON: [JSONArray](jsonArray/jsonArray.pde) and [JSONObject](jsonObject/jsonObject.pde)
+    - Exercise: Use this XML file in your stupid data viz
 * Using API's
 * Exercise: Build a big data visualization from a data set
 
