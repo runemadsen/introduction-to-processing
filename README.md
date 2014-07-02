@@ -95,14 +95,16 @@ Day 2
 * What is a function?
 * Calling vs. defining
 * Exercise: Make a `house` function that draws a house
+* Return values
+* Exercise: Make a function that divides two numbers
 * Parameters
-* Exercise: Make a function that draws a house. Use it to draw it 3 different places.
+* Exercise: Make a function that draws a house. You pass in the x and y of the house. Use it to draw it 3 different places.
 * Exercise: Make a function that draws a hittest button. Use it to draw 3 buttons with different labels
 
 ### Repetition
 
 * `for` loops
-    - `for` 
+    - `for`
     - Show Paul Rand examples from Form
     - Exercise: Draw a row of rectangles across the screen
     - Exercise: Make the 4th rectangle another color
@@ -110,9 +112,21 @@ Day 2
     - Exercise: Make a grid of rectangles using two loops
     - Exercise: Make a pattern
 * `while` loops
+    - to fill the screen
 * Arrays and loops
     - What is an array?
-    - Exercise: Do a bar chart from array of numbers
+    - Array of colors to use
+    - Several arrays for barchart + labels
+    - Exercise: Input a simple set of data points in multiple arrays, and display it. Put it in the draw loop to be able to do mouseovers.
+
+Day 3
+-----
+
+### Re-cap
+
+* All the stuff we did
+* `pushMatrix()` and `popMatrix()`
+* int vs. float
 
 ### Drawing graphs
 
@@ -120,58 +134,51 @@ Day 2
 * [Pie charts](piechart/piechart.pde)
 * [Block charts](blockchart/blockchart.pde)
 
+### Quick facts about objects
+
 ### Data
 
 * [Table and CSV's](csv/csv.pde)
     - What is a CSV file?
     - Processing and CSV's
-    - Exercise: Use this CSV file in your stupid data viz
+    - Exercise: Write a sketch that loads the age data
+    - Exercise: Display data using a block chart
     - Exercise: Take [this population dataset](exercise-data/population.csv) and draw something from it.
 * [XML](xml/xml.pde)
     - What is XML?
     - Processing and XML
-    - Exercise: Use this XML file in your stupid data viz
+    - Exercise: Write a sketch that loads the age data
+    - Exercise: Display data using a pie chart
     - Exercise: Take [this weather dataset](exercise-data/weather.xml) and draw something from it.
 * JSON
     - What is JSON?
     - Processing and JSON: [JSONArray](jsonArray/jsonArray.pde) and [JSONObject](jsonObject/jsonObject.pde)
-    - Exercise: Use this XML file in your stupid data viz
+    - Exercise: Write a sketch that loads the age data
+    - Exercise: Display data using a line chart
     - Exercise: Take [this dataset](exercise-data/crypto.json) and draw something
-* Exercise: Find a dataset on [data.worldbank.org](http://data.worldbank.org/) and build a data visualization from it.
+* Exercise: Find a dataset on [data.worldbank.org](http://data.worldbank.org/) and start building a data visualization from it.
 
-Day 3
+* HTTP Requests for Processing
+
+Day 4
 -----
 
+### What is a good Data Visualization?
 
+* https://vimeo.com/17005531
+* https://vimeo.com/19459126 and https://vimeo.com/5423953
+* http://www.nytimes.com/interactive/2012/05/05/sports/baseball/mariano-rivera-and-his-peers.html?_r=0 and http://www.nytimes.com/2010/07/04/magazine/04Rivera-t.html?pagewanted=all&_r=0
+* http://www.nytimes.com/interactive/2011/09/08/nyregion/911-tapes.html?_r=0
+* http://www.nytimes.com/interactive/2010/02/26/sports/olympics/20100226-olysymphony.html?_r=0
+
+### Classes and Objects
+
+### Maps and overlays in Processing
 
 Day 5
 -----
 
-### Other frameworks / languages
-
-* P5.js
-* Processing.js
-* Two.js
-* D3.js
-
-
-Not yet placed
---------------
-
-### Maps and overlays in Processing
-
-### Classes and Objects
-
-### Advanced Color
-
-* [Additive and Subtractive color systems](http://printingcode.runemadsen.com/lecture-color/)
-* `colorMode` and `HSB`
-
-### Advanced Repetition
-
-### Advanced Randomization
-
-### Advanced Transformation
+### Transformation
 
 * [Transformation in Processing](http://printingcode.runemadsen.com/lecture-transformation/)
 * Images
@@ -184,7 +191,27 @@ Not yet placed
 * Easings, millis, stuff from class
 Stuff from class
 
-### Data Visualizations that work
+
+Not yet placed
+--------------
+
+### Other frameworks / languages
+
+* P5.js
+* Processing.js
+* Two.js
+* D3.js
+
+
+### Advanced Color
+
+* [Additive and Subtractive color systems](http://printingcode.runemadsen.com/lecture-color/)
+* `colorMode` and `HSB`
+
+
+
+
+
 
 ### Etc
 
@@ -192,12 +219,14 @@ Stuff from class
 * 3D?
 * Embedding on the web?
 * Toxiclibs
+* Perlin noise
 * Geomerative
 * sin/cos
 * Add more stuff from Printing Code
-* Processing libraries? P5? etc???
+* Processing libraries? ControlP5? etc???
 * Toxiclibs?
 * Jer Thorp's tutorials...
+* Math functions in Processing
 
 Links
 -----

@@ -7,13 +7,15 @@ void setup() {
   noLoop();
 }
 
-void draw() {
+void draw()
+{
   background(200);
+  translate(width/2, height/2);
   float lastAngle = 0;
   for (int i = 0; i < angles.length; i++)
   {
     fill(random(50, 250));
-    arc(width/2, height/2, diameter, diameter, lastAngle, lastAngle+radians(angles[i]));
+    arc(0, 0, diameter, diameter, lastAngle, lastAngle+radians(angles[i]));
     lastAngle += radians(angles[i]);
   }
 }

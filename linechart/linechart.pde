@@ -6,12 +6,14 @@ void setup()
 
   noFill();
   strokeWeight(3);
+
+  translate(0, height/2);
   
   beginShape();
   for(int i = 0; i < data.length; i++)
   {
     float curX = (width/data.length) * i;
-    float curY = (height/2) - data[i];
+    float curY = -data[i];
 
     if(i == 0 || i == data.length-1)
     {
