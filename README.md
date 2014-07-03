@@ -163,6 +163,13 @@ Day 3
 Day 4
 -----
 
+### Loading images
+
+### XML IRL
+
+* Show: Take an XML document with simple non-array tags and draw data from it
+* Show: Take an XML document with array children and draw line graph from it
+
 ### What is a good Data Visualization?
 
 * https://vimeo.com/17005531
@@ -170,6 +177,8 @@ Day 4
 * http://www.nytimes.com/interactive/2012/05/05/sports/baseball/mariano-rivera-and-his-peers.html?_r=0 and http://www.nytimes.com/2010/07/04/magazine/04Rivera-t.html?pagewanted=all&_r=0
 * http://www.nytimes.com/interactive/2011/09/08/nyregion/911-tapes.html?_r=0
 * http://www.nytimes.com/interactive/2010/02/26/sports/olympics/20100226-olysymphony.html?_r=0
+
+### mouseover and mousePressed stuff
 
 ### Classes and Objects
 

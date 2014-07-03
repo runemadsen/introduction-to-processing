@@ -2,6 +2,8 @@ XML xml;
 
 void setup() {
   xml = loadXML("data.xml");
+  XML firstChild = xml.getChild("person");
+
   XML[] children = xml.getChildren("person");
   for (int i = 0; i < children.length; i++)
   {
