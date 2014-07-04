@@ -163,7 +163,7 @@ Day 3
 Day 4
 -----
 
-### Loading images
+### `setup()`, `draw()` and events re-cap
 
 ### XML IRL
 
@@ -172,20 +172,27 @@ Day 4
 
 ### What is a good Data Visualization?
 
+* first of all: http://www.nytimes.com/interactive/2014/07/03/world/middleeast/syria-iraq-isis-rogue-state-along-two-rivers.html?_r=1 and http://cl.ly/WO6C
+* [Images](/images)
 * https://vimeo.com/17005531
 * https://vimeo.com/19459126 and https://vimeo.com/5423953
+* http://www.nytimes.com/interactive/2013/02/19/movies/awardsseason/oscar-trailers.html?_r=0
 * http://www.nytimes.com/interactive/2012/05/05/sports/baseball/mariano-rivera-and-his-peers.html?_r=0 and http://www.nytimes.com/2010/07/04/magazine/04Rivera-t.html?pagewanted=all&_r=0
 * http://www.nytimes.com/interactive/2011/09/08/nyregion/911-tapes.html?_r=0
 * http://www.nytimes.com/interactive/2010/02/26/sports/olympics/20100226-olysymphony.html?_r=0
 
-### mouseover and mousePressed stuff
+### Work on projects
 
-### Classes and Objects
-
-### Maps and overlays in Processing
 
 Day 5
 -----
+
+### Loading images
+
+### Motion
+
+* Easings, millis, stuff from class
+Stuff from class
 
 ### Transformation
 
@@ -195,14 +202,9 @@ Day 5
     - The pixels array
 * Exercise: make an interactive image processing filter
 
-### Motion
+### ArrayList, FloatList, IntList
 
-* Easings, millis, stuff from class
-Stuff from class
-
-
-Not yet placed
---------------
+### HTTP Requests for Processing
 
 ### Other frameworks / languages
 
@@ -210,6 +212,16 @@ Not yet placed
 * Processing.js
 * Two.js
 * D3.js
+
+
+Not yet placed
+--------------
+
+### mouseover and mousePressed stuff
+
+### Classes and Objects
+
+### Maps and overlays in Processing
 
 
 ### Advanced Color
